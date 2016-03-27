@@ -10,8 +10,7 @@ numberGuessed <- function(guess, number) {
     #print(guess)
     #print(class(guess))
     #print(class(100))
-    returnValue <- 'Abolibrary(devtools)
-install_github('slidify', 'roman121')ve 100.\nPlease make a selection between 1 and 100.'
+    returnValue <- 'Above 100.\nPlease make a selection between 1 and 100.'
   }
   else if (guess < 1) {
     #print(guess)
